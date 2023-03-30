@@ -7,7 +7,7 @@
   - [Overview](#overview)
     - [Instructions to setup](#instructions-to-setup)
     - [Project Structure](#project-structure)
-      - [Visualisation](#visualisation)
+    - [Visualisation](#visualisation)
     - [Training GIF](#training-gif)
     - [Training Curves](#training-curves)
 
