@@ -70,7 +70,11 @@ semantic_segmentation
 ### Training GIF
 
 <p align="center">
-<img src="GIF.gif" width="95%">
+<img src="samples/GIF.gif" width="95%">
 </p>
 
 ### Training Curves
+
+<p align="center">
+<img src="assets/loss_accu_epochs40.png" width="95%">
+</p>
