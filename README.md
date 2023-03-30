@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 - [Semantic Segmentation](#semantic-segmentation)
   - [Overview](#overview)
     - [Instructions to setup](#instructions-to-setup)
@@ -58,7 +59,7 @@ semantic_segmentation
 - Color coded segmentation mask for all  given labels  :
 
 <p align="center">
-  <img src="assets/Labels_Color_Segmentation_Map.png" width="95%">
+  <img src="assets/Labels_Color_Segementation_Map.png" width="95%">
 </p>
 
 - Masks for all class for label_01  :
