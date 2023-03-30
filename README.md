@@ -36,9 +36,9 @@ semantic_segmentation
 |── utils.py -> contains utility functions like, train_model(), color_segmap(), plot results()
 ```
 
-#### Visualisation
+### Visualisation
 
-- Mask for individual classes:
+#### Mask for individual classes:
 
 <p align="center">
   <img src="assets/car_mask.png" width="95%">
@@ -56,13 +56,13 @@ semantic_segmentation
   <img src="assets/vegetation_mask.png" width="95%">
 </p>
 
-- Color coded segmentation mask for all  given labels  :
+#### Color coded segmentation mask for all  given labels  :
 
 <p align="center">
   <img src="assets/Labels_Color_Segementation_Map.png" width="95%">
 </p>
 
-- Masks for all class for label_01  :
+#### Masks for all classes for label_01  :
 
 <p align="center">
   <img src="assets/Masks_Label_01.png" width="95%">
